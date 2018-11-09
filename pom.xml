@@ -24,6 +24,8 @@
 
         <!-- kafka -->
         <spring-kafka.version>1.0.6.RELEASE</spring-kafka.version>
+
+        <quartz.version>2.3.0</quartz.version>
     </properties>
 
     <modules>
@@ -52,6 +54,14 @@
                 <artifactId>spring-kafka</artifactId>
                 <version>${spring-kafka.version}</version>
             </dependency>
+
+            <!-- quartz -->
+            <dependency>
+                <groupId>org.quartz-scheduler</groupId>
+                <artifactId>quartz</artifactId>
+                <version>${quartz.version}</version>
+            </dependency>
+
         </dependencies>
     </dependencyManagement>
 

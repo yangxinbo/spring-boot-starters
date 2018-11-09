@@ -1,0 +1,4 @@
+D:\github.com\TwistedFate\spring-boot-starters\spring-boot-starter-kafka\src\main\java\cn\sinaif\spring\boot\kafka\autoconfigure\KafkaAnnotationDrivenConfiguration.java
+D:\github.com\TwistedFate\spring-boot-starters\spring-boot-starter-kafka\src\main\java\cn\sinaif\spring\boot\kafka\autoconfigure\KafkaAutoConfiguration.java
+D:\github.com\TwistedFate\spring-boot-starters\spring-boot-starter-kafka\src\main\java\cn\sinaif\spring\boot\kafka\autoconfigure\KafkaProperties.java
+D:\github.com\TwistedFate\spring-boot-starters\spring-boot-starter-kafka\src\main\java\cn\sinaif\spring\boot\kafka\autoconfigure\ConcurrentKafkaListenerContainerFactoryConfigurer.java
