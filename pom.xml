@@ -30,7 +30,6 @@
 
     <modules>
         <module>spring-boot-starter-kafka</module>
-        <module>spring-boot-starter-quartz</module>
     </modules>
 
     <distributionManagement>
