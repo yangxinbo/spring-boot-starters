@@ -1,2 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  cn.sinaif.spring.boot.kafka.autoconfigure.KafkaAutoConfiguration
